@@ -2,6 +2,6 @@
 <br>
 <b>Use IPFS or Ordinals Inscriptions to store image links!</b>
 <br>
-*Fully censorship proof!
+<b>Fully censorship proof!</b>
 <br>
-Virtually impossible to seize or stop this market!
+<b>Virtually impossible to seize or stop this market!</b>
